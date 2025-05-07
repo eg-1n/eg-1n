@@ -1,6 +1,6 @@
 ## About me
 
-<h2 align="left" font-weight="light">안녕하세요 👋, 저는 신예인 (SHIN YE IN)입니다</h2>
+<h2 align="left" font-weight="bold">안녕하세요 👋, 저는 신예인 (SHIN YE IN)입니다</h2>
 <h3 align="left" font-weight="light">경험을 설계하고 능력을 더하는 가변형 UX/UI 디자이너. (경험을 만들고 감성을 더하는 실용적인 UX/UI 디자이너입니다.)</h3>
 
 <h5 align="left" font-weight="light">
