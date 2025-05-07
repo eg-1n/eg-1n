@@ -4,9 +4,9 @@
 <h3 align="left">경험을 설계하고 능력을 더하는 가변형 UX/UI 디자이너. (A practical UX/UI designer who crafts experiences and adds a touch of sensibility.)</h3>
 
 <h5 align="left">
-· 🔭 현재 **학교폭력 피해 케어 서비스 앱, 비로섬**을 작업 중입니<br>다.
+· 🔭 현재 **학교폭력 피해 케어 서비스 앱, 비로섬**을 작업 중입니다. <br>
 
-· 🌱 현재 **블렌더, 미드저니**를 배우고 있습니다
+</br>· 🌱 현재 **블렌더, 미드저니**를 배우고 있습니다
 
 · 👨‍💻 모든 프로젝트는 [https://drive.google.com/file/d/11Ou5dyPwcGeOPsL-_WZmOxNekE-c-TIQ/view?usp=sharing](https://drive.google.com/file/d/11Ou5dyPwcGeOPsL-_WZmOxNekE-c-TIQ/view?usp=sharing)에서 확인할 수 있습니다
 
