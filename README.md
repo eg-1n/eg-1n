@@ -1,9 +1,9 @@
 ## About me
 
-<h2 align="left" font-weight="bold">안녕하세요 👋, 저는 신예인 (SHIN YE IN)입니다</h2>
-<h3 align="left" font-weight="light">경험을 설계하고 능력을 더하는 가변형 UX/UI 디자이너. (경험을 만들고 감성을 더하는 실용적인 UX/UI 디자이너입니다.)</h3>
+<h2 align="left" font-size: 24px>안녕하세요 👋, 저는 신예인 (SHIN YE IN)입니다</h2>
+<h4 align="left" font-size: 20px>경험을 설계하고 능력을 더하는 가변형 UX/UI 디자이너. (경험을 만들고 감성을 더하는 실용적인 UX/UI 디자이너입니다.)</h3>
 
-<h5 align="left" font-weight="light">
+<h5 align="left">
 - 🔭 현재 **학교폭력 겪었던 케어 서비스 앱, 비로섬**을 작업 중입니다.
 
 - 🌱 현재 **블렌더, 미드저니**를 배우고 있습니다
@@ -15,8 +15,8 @@
 - 📄 제 경험에 대해 알아보세요. [https://drive.google.com/file/d/1BR9jkTOrNX3om20kxVsRWkW1tLTAHDKU/view?usp=sharing](https://drive.google.com/file/d/1BR9jkTOrNX3om20kxVsRWkW1tLTAHDKU/view?usp=sharing)
 </h5>
 
-<h2 align="left" font-weight="light">저와 소통하기:</h2>
-<p align="left" font-weight="light">
+<h2 align="left">저와 소통하기:</h2>
+<p align="left">
 </p>
 
 <h2 align="left">언어 및 도구:</h2>
