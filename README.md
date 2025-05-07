@@ -21,5 +21,5 @@
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="일러스트레이터" width="40" height="40"/>
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg)" alt="포토샵" 너비="40" 높이="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="포토샵" 너비="40" 높이="40"/>
 </p>
