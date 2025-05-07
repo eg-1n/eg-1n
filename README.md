@@ -2,7 +2,7 @@
 
 <h2 align="left">안녕하세요 👋, 저는 신예인 (SHIN YE IN)입니다</h2>
 <h3 align="left">경험을 설계하고 능력을 더하는 가변형 UX/UI 디자이너.</h3>
-<h4 align="left" style="color: #cccccc;">A practical UX/UI designer who crafts experiences and adds a touch of sensibility.</h4>
+<h4 align="left"><span style="color:red">A practical UX/UI designer who crafts experiences and adds a touch of sensibility.</span></h4>
 
 
 
