@@ -22,5 +22,5 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" alt="일러스트레이터" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="포토샵" width="40" height="40"/>
-  <img src="https://blog.kakaocdn.net/dn/dqWje0/btrSkCMm3os/AsZCKUyXu9nDoOdXkNVLbK/img.png" alt="에프터이펙트" width="40" height="40"/>
+  <img src="https://blog.kakaocdn.net/dn/dqWje0/btrSkCMm3os/AsZCKUyXu9nDoOdXkNVLbK/img.png" alt="에프터이펙트" width="40" height="40" round-corner="20"/>
 </p>
