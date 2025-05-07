@@ -13,12 +13,8 @@
 
 · 📫 연락처 **eg-1n@naver.com**
 
-· 📄 제 경험에 대해 알아보세요. [https://drive.google.com/file/d/1BR9jkTOrNX3om20kxVsRWkW1tLTAHDKU/view?usp=sharing](https://drive.google.com/file/d/1BR9jkTOrNX3om20kxVsRWkW1tLTAHDKU/view?usp=sharing)
+· 📄 제 경험에 대해 알아보세요. <a href="https://drive.google.com/file/d/1BR9jkTOrNX3om20kxVsRWkW1tLTAHDKU/view?usp=sharing">Click here!</a>
 </h5>
-
-<h2 align="left">저와 소통하기:</h2>
-<p align="left">
-</p>
 
 <h2 align="left">언어 및 도구:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="일러스트레이터" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="포토샵" 너비="40" 높이="40"/> </a> </p>
